@@ -24,7 +24,7 @@ def javacOptionsVersion(scalaVersion: String): Seq[String] = {
   }
 }
 
-name := "Project1"
+name := "ChiselMIPS"
 
 version := "3.1.0"
 
