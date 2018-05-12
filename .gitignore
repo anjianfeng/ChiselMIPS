@@ -1,0 +1,7 @@
+*.class
+*.cache
+*.xml
+*.css
+project/target
+target
+test_run_dir
